@@ -1,0 +1,10 @@
+.screen {
+	height: 5rem;
+	font-size: 3rem;
+	background-color: #1f5653;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	margin-bottom: 1rem;
+	padding-right: 1rem;
+}
